@@ -1,4 +1,4 @@
-# Monitoria-ModelagemPreditivaDescritiva1
+# Monitoria - Modelagem Preditiva e Descritiva 1
 
 # Utilizando o Google Colab
 
